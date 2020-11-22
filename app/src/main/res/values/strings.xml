@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rainbow</string>
+    <string name="btn">Поговорка</string>
+    <string name="str1">КАЖДЫЙ</string>
+    <string name="str2">ОХОТНИК</string>
+    <string name="str3">ЖЕЛАЕТ</string>
+    <string name="str4">ЗНАТЬ</string>
+    <string name="str5">ГДЕ</string>
+    <string name="str6">СИДИТ</string>
+    <string name="str7">ФАЗАН</string>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="lightblue">#42AAFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="violet">#8B00FF</color>
+</resources>

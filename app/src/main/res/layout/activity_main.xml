@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/activity_main_scene"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="341dp" />
+
+    <TextView
+        android:id="@+id/str1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str1"
+        android:textColor="@color/red"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="91dp" />
+
+    <TextView
+        android:id="@+id/str2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str2"
+        android:textColor="@color/orange"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="223dp"
+        tools:layout_editor_absoluteY="166dp" />
+
+    <TextView
+        android:id="@+id/str3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str3"
+        android:textColor="@color/yellow"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="262dp" />
+
+    <TextView
+        android:id="@+id/str4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str4"
+        android:textColor="@color/green"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="241dp"
+        tools:layout_editor_absoluteY="360dp" />
+
+    <TextView
+        android:id="@+id/str5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str5"
+        android:textColor="@color/lightblue"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="437dp" />
+
+    <TextView
+        android:id="@+id/str6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str6"
+        android:textColor="@color/blue"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="240dp"
+        tools:layout_editor_absoluteY="535dp" />
+
+    <TextView
+        android:id="@+id/str7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str7"
+        android:textColor="@color/violet"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="83dp"
+        tools:layout_editor_absoluteY="647dp" />
+
+</androidx.constraintlayout.motion.widget.MotionLayout>
